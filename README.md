@@ -18,7 +18,7 @@ fazer o check do afazer que foi realizado, pode editar e excluir.
   
 
 <br>
-<h1>IMAGEM DO JOGO</h1><br>
+<h1>IMAGEM DO To Do Lista</h1><br>
 <div align="center">
 <img src="/Arquivos/ToDoLista.gif" alt="demo-gif" height="" width="">
 </div>
